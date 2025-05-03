@@ -130,7 +130,7 @@ indicating it is the most accurate predictor of weekly sales, particularly sensi
     ```bash
     python src/compare_models.py
     ```
-10. **Generate Predictions (Optional):** Uses the trained models to predict sales on the original test data and saves submission files.
+10. **Generate Predictions:** Uses the trained models to predict sales on the original test data and saves submission files.
     ```bash
     python src/predict_random_forest.py # Generates predictions/submission_rf.csv
     python src/predict_linear_regression.py # Generates predictions/submission_lr.csv
@@ -150,8 +150,8 @@ indicating it is the most accurate predictor of weekly sales, particularly sensi
 
 ## ✉️ Contact
 
-*   **Name:** [Carlos Moreno]
-*   **LinkedIn:** [(https://www.linkedin.com/in/cfmoreno/)]
+*   **Name:** Carlos Moreno
+*   **LinkedIn:** [https://www.linkedin.com/in/cfmoreno/]
 *   **Email:** [cfmorenod@gmail.com]
 
 ---
