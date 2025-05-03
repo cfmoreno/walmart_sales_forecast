@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/processed/*.db
+models/*.pkl
+models/*.log # If you added logging
+predictions/*.csv
