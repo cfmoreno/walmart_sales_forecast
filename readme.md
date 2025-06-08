@@ -1,4 +1,6 @@
 
+![Screenshot 2025-06-08 164908](https://github.com/user-attachments/assets/41e9fcb6-5daa-4232-9331-4ed26efbd3df)
+
 ## 📊 Data Source
 
 The dataset used for this project is the [Walmart Sales Forecast](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast/data) dataset available on Kaggle. It provides historical weekly sales data for 45 stores across various departments, along with store details and external economic factors.
