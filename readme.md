@@ -1,4 +1,4 @@
-
+# Walmart Sales Forecast
 ![Screenshot 2025-06-08 164908](https://github.com/user-attachments/assets/41e9fcb6-5daa-4232-9331-4ed26efbd3df)
 
 ## 📊 Data Source
